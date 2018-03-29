@@ -1,0 +1,19 @@
+{
+  "name": "g6-test",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@antv/g6": "^1.2.3-beta.8",
+    "@antv/g6-plugins": "^1.0.2",
+    "antd": "^3.2.3",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-scripts": "1.0.17"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
